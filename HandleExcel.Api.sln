@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleExcel.Api", "HandleExcel.Api\HandleExcel.Api.csproj", "{B418F6CB-D976-479E-9A0B-A686F18BAAE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleExcel.Services", "HandleExcel.Services\HandleExcel.Services.csproj", "{7E82BD16-48F0-401B-9D33-F54D7A92D839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleExcel.Repositories", "HandleExcel.Repositories\HandleExcel.Repositories.csproj", "{ED798C42-EFBD-437C-A832-73329BC98E40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleExcel.Common", "HandleExcel.Common\HandleExcel.Common.csproj", "{F84985AE-89D1-4C6C-94D2-5D5CCE69D2DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleExcel.WebApi", "HandleExcel.WebApi\HandleExcel.WebApi.csproj", "{0CB9D5C4-BA0C-419F-B697-68A080236191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{53F538F1-2D18-472B-9849-C7BE73349BA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B418F6CB-D976-479E-9A0B-A686F18BAAE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B418F6CB-D976-479E-9A0B-A686F18BAAE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B418F6CB-D976-479E-9A0B-A686F18BAAE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B418F6CB-D976-479E-9A0B-A686F18BAAE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E82BD16-48F0-401B-9D33-F54D7A92D839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E82BD16-48F0-401B-9D33-F54D7A92D839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E82BD16-48F0-401B-9D33-F54D7A92D839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E82BD16-48F0-401B-9D33-F54D7A92D839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED798C42-EFBD-437C-A832-73329BC98E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED798C42-EFBD-437C-A832-73329BC98E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED798C42-EFBD-437C-A832-73329BC98E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED798C42-EFBD-437C-A832-73329BC98E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F84985AE-89D1-4C6C-94D2-5D5CCE69D2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84985AE-89D1-4C6C-94D2-5D5CCE69D2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84985AE-89D1-4C6C-94D2-5D5CCE69D2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84985AE-89D1-4C6C-94D2-5D5CCE69D2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CB9D5C4-BA0C-419F-B697-68A080236191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB9D5C4-BA0C-419F-B697-68A080236191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB9D5C4-BA0C-419F-B697-68A080236191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB9D5C4-BA0C-419F-B697-68A080236191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F538F1-2D18-472B-9849-C7BE73349BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F538F1-2D18-472B-9849-C7BE73349BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F538F1-2D18-472B-9849-C7BE73349BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F538F1-2D18-472B-9849-C7BE73349BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E979A30D-7BF1-4CE7-8E5F-3B1790011B56}
+	EndGlobalSection
+EndGlobal
